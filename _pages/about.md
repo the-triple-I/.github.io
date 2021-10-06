@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Independent intellectual obssessed with psychology, technology, markets, and many other topics.
+description: An independent intellectual obssessed with psychology, technology, markets, and many other topics.
 
 profile:
   align: right
@@ -16,6 +16,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I believe that humans have reached an inflection point in technological development. Today we are experiencing a cambrian explosion in social technologies- the ways we communicate, trade, and thrive are changing faster than most can understand. This site is where I share the best content I find, the skills I'm learning, and the projects I'm working on. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
