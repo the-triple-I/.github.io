@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Independent intellectual obssessed with psychology, technology, markets, and many other topics.
 
 profile:
   align: right
